@@ -120,7 +120,7 @@ void a::allotment()
 
     {
 
-      cout<<"\nThere are only 60 seats available in this bus.";
+      cout<<"\nThere are only 48 seats available in this bus.";
 
     }
 
